@@ -1,0 +1,3 @@
+CREATE DATABASE Spiderman;
+
+DROP DATABASE Spiderman;
